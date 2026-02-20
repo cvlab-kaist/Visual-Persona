@@ -1,0 +1,13 @@
+accelerate==0.25.0
+diffusers==0.32.2
+einops==0.8.0
+huggingface-hub==0.28.1
+numpy==1.26.4
+opencv-python==4.8.1.78
+pyrallis==0.3.1
+tokenizers==0.21.0
+torch==2.2.2
+torchvision==0.17.2
+transformers==4.48.3
+wandb==0.17.1
+controlnet_aux==0.0.9
